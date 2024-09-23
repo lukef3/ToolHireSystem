@@ -12,7 +12,7 @@ namespace ToolSYS
         //public const String oradb = "Data Source = oracle/orcl; User Id = T00224345; Password = d4knmyt!4yGi;";
 
         //Local
-        public const String oradb = "Data Source = localhost/orcl; User Id = sys; Password = oracle; DBA Privilege=SYSDBA;";
+        public const String oradb = "Data Source = 192.168.1.22/XE; User Id = sys; Password = oracle; DBA Privilege=SYSDBA;";
 
     }
 }

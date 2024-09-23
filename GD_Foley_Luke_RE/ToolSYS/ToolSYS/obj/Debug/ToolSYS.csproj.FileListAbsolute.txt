@@ -248,3 +248,47 @@ C:\Users\lukef\OneDrive - Institute of Technology Tralee\2. YEAR 2\Sem 2\Softwar
 C:\Users\lukef\OneDrive - Institute of Technology Tralee\2. YEAR 2\Sem 2\Software Engineering Project\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmAddCustomer.resources
 C:\Users\lukef\OneDrive - Institute of Technology Tralee\2. YEAR 2\Sem 2\Software Engineering Project\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmUpdateCustomer.resources
 C:\Users\lukef\OneDrive - Institute of Technology Tralee\2. YEAR 2\Sem 2\Software Engineering Project\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmViewCustomers.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\ToolSYS.exe.config
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\ToolSYS.exe
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\ToolSYS.pdb
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Buffers.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Memory.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Text.Json.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.ValueTuple.dll
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Buffers.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Memory.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Text.Json.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\bin\Debug\System.ValueTuple.xml
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.csproj.AssemblyReference.cache
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmAddCustomer.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmAddTool.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmAnnualRevenueAnalysis.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmAnnualToolTypeAnalysis.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmMainMenu.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmRemoveTool.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmReturnTools.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmSetToolCategory.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmUpdateCustomer.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmUpdateTool.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmUpdateToolRate.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmViewCustomers.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmViewRentals.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmViewTools.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.Properties.Resources.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.frmRentTools.resources
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.csproj.GenerateResource.cache
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.csproj.CoreCompileInputs.cache
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.csproj.Up2Date
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.exe
+C:\Users\lukef\OneDrive\Documents\GitHub\ToolHireSystem\GD_Foley_Luke_RE\ToolSYS\ToolSYS\obj\Debug\ToolSYS.pdb

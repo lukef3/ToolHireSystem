@@ -121,7 +121,7 @@ namespace ToolSYS
             {
                 if (!String.IsNullOrEmpty(txtTotalFee.Text))
                 {
-                    Rental rental = new Rental(Convert.ToInt32(txtRentalID.Text), Convert.ToInt32(txtCustomerID.Text), Convert.ToDecimal(txtTotalFee.Text));
+                    Rental rental = new Rental(Convert.ToInt32(txtRentalID.Text), Convert.ToInt32(txtCustomerID.Text), DateTime.Today, Convert.ToDecimal(txtTotalFee.Text));
                     rental.AddRental();
 
                     RentalItem rentalItem = new RentalItem();
